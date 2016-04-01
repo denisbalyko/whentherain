@@ -1,0 +1,2894 @@
+{
+  'hourly_forecast': [
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'PM',
+        'civil': '9:00 PM',
+        'epoch': '1458583200',
+        'hour': '21',
+        'hour_padded': '21',
+        'isdst': '0',
+        'mday': '21',
+        'mday_padded': '21',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '9:00 PM MSK on March 21, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Monday',
+        'weekday_name_abbrev': 'Mon',
+        'weekday_name_night': 'Monday Night',
+        'weekday_name_night_unlang': 'Monday Night',
+        'weekday_name_unlang': 'Monday',
+        'yday': '80',
+        'year': '2016'
+      },
+      'condition': 'Mostly Cloudy',
+      'dewpoint': {
+        'english': '33',
+        'metric': '1'
+      },
+      'fctcode': '3',
+      'feelslike': {
+        'english': '30',
+        'metric': '-1'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '91',
+      'icon': 'mostlycloudy',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_mostlycloudy.gif',
+      'mslp': {
+        'english': '29.65',
+        'metric': '1004'
+      },
+      'pop': '0',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '76',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '35',
+        'metric': '2'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '252',
+        'dir': 'WSW'
+      },
+      'windchill': {
+        'english': '30',
+        'metric': '-1'
+      },
+      'wspd': {
+        'english': '7',
+        'metric': '11'
+      },
+      'wx': 'Mostly Cloudy'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'PM',
+        'civil': '10:00 PM',
+        'epoch': '1458586800',
+        'hour': '22',
+        'hour_padded': '22',
+        'isdst': '0',
+        'mday': '21',
+        'mday_padded': '21',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '10:00 PM MSK on March 21, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Monday',
+        'weekday_name_abbrev': 'Mon',
+        'weekday_name_night': 'Monday Night',
+        'weekday_name_night_unlang': 'Monday Night',
+        'weekday_name_unlang': 'Monday',
+        'yday': '80',
+        'year': '2016'
+      },
+      'condition': 'Mostly Cloudy',
+      'dewpoint': {
+        'english': '32',
+        'metric': '0'
+      },
+      'fctcode': '3',
+      'feelslike': {
+        'english': '30',
+        'metric': '-1'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '92',
+      'icon': 'mostlycloudy',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_mostlycloudy.gif',
+      'mslp': {
+        'english': '29.65',
+        'metric': '1004'
+      },
+      'pop': '14',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '66',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '35',
+        'metric': '2'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '251',
+        'dir': 'WSW'
+      },
+      'windchill': {
+        'english': '30',
+        'metric': '-1'
+      },
+      'wspd': {
+        'english': '7',
+        'metric': '11'
+      },
+      'wx': 'Mostly Cloudy'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'PM',
+        'civil': '11:00 PM',
+        'epoch': '1458590400',
+        'hour': '23',
+        'hour_padded': '23',
+        'isdst': '0',
+        'mday': '21',
+        'mday_padded': '21',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '11:00 PM MSK on March 21, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Monday',
+        'weekday_name_abbrev': 'Mon',
+        'weekday_name_night': 'Monday Night',
+        'weekday_name_night_unlang': 'Monday Night',
+        'weekday_name_unlang': 'Monday',
+        'yday': '80',
+        'year': '2016'
+      },
+      'condition': 'Mostly Cloudy',
+      'dewpoint': {
+        'english': '32',
+        'metric': '0'
+      },
+      'fctcode': '3',
+      'feelslike': {
+        'english': '26',
+        'metric': '-3'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '93',
+      'icon': 'mostlycloudy',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_mostlycloudy.gif',
+      'mslp': {
+        'english': '29.64',
+        'metric': '1004'
+      },
+      'pop': '10',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '75',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '33',
+        'metric': '1'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '251',
+        'dir': 'WSW'
+      },
+      'windchill': {
+        'english': '26',
+        'metric': '-3'
+      },
+      'wspd': {
+        'english': '9',
+        'metric': '14'
+      },
+      'wx': 'Mostly Cloudy'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '12:00 AM',
+        'epoch': '1458594000',
+        'hour': '0',
+        'hour_padded': '00',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '12:00 AM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow',
+      'dewpoint': {
+        'english': '32',
+        'metric': '0'
+      },
+      'fctcode': '21',
+      'feelslike': {
+        'english': '27',
+        'metric': '-3'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '96',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_snow.gif',
+      'mslp': {
+        'english': '29.64',
+        'metric': '1004'
+      },
+      'pop': '46',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '80',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '33',
+        'metric': '1'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '250',
+        'dir': 'WSW'
+      },
+      'windchill': {
+        'english': '27',
+        'metric': '-3'
+      },
+      'wspd': {
+        'english': '8',
+        'metric': '13'
+      },
+      'wx': 'Rain/Snow'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '1:00 AM',
+        'epoch': '1458597600',
+        'hour': '1',
+        'hour_padded': '01',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '1:00 AM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Chance of Rain',
+      'dewpoint': {
+        'english': '32',
+        'metric': '0'
+      },
+      'fctcode': '12',
+      'feelslike': {
+        'english': '28',
+        'metric': '-2'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '95',
+      'icon': 'chancerain',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_chancerain.gif',
+      'mslp': {
+        'english': '29.64',
+        'metric': '1004'
+      },
+      'pop': '46',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '84',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '33',
+        'metric': '1'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '247',
+        'dir': 'WSW'
+      },
+      'windchill': {
+        'english': '28',
+        'metric': '-2'
+      },
+      'wspd': {
+        'english': '7',
+        'metric': '11'
+      },
+      'wx': 'Light Rain'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '2:00 AM',
+        'epoch': '1458601200',
+        'hour': '2',
+        'hour_padded': '02',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '2:00 AM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Ice Pellets',
+      'dewpoint': {
+        'english': '31',
+        'metric': '-1'
+      },
+      'fctcode': '23',
+      'feelslike': {
+        'english': '25',
+        'metric': '-4'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '96',
+      'icon': 'sleet',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_sleet.gif',
+      'mslp': {
+        'english': '29.63',
+        'metric': '1003'
+      },
+      'pop': '41',
+      'qpf': {
+        'english': '0.01',
+        'metric': '0'
+      },
+      'sky': '90',
+      'snow': {
+        'english': '0.1',
+        'metric': '3'
+      },
+      'temp': {
+        'english': '32',
+        'metric': '0'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '244',
+        'dir': 'WSW'
+      },
+      'windchill': {
+        'english': '25',
+        'metric': '-4'
+      },
+      'wspd': {
+        'english': '8',
+        'metric': '13'
+      },
+      'wx': 'Wintry Mix'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '3:00 AM',
+        'epoch': '1458604800',
+        'hour': '3',
+        'hour_padded': '03',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '3:00 AM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow',
+      'dewpoint': {
+        'english': '32',
+        'metric': '0'
+      },
+      'fctcode': '21',
+      'feelslike': {
+        'english': '28',
+        'metric': '-2'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '97',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_snow.gif',
+      'mslp': {
+        'english': '29.62',
+        'metric': '1003'
+      },
+      'pop': '35',
+      'qpf': {
+        'english': '0.02',
+        'metric': '1'
+      },
+      'sky': '97',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '33',
+        'metric': '1'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '241',
+        'dir': 'WSW'
+      },
+      'windchill': {
+        'english': '28',
+        'metric': '-2'
+      },
+      'wspd': {
+        'english': '6',
+        'metric': '10'
+      },
+      'wx': 'Rain/Snow'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '4:00 AM',
+        'epoch': '1458608400',
+        'hour': '4',
+        'hour_padded': '04',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '4:00 AM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow',
+      'dewpoint': {
+        'english': '32',
+        'metric': '0'
+      },
+      'fctcode': '21',
+      'feelslike': {
+        'english': '26',
+        'metric': '-3'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '97',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_snow.gif',
+      'mslp': {
+        'english': '29.6',
+        'metric': '1002'
+      },
+      'pop': '65',
+      'qpf': {
+        'english': '0.02',
+        'metric': '1'
+      },
+      'sky': '100',
+      'snow': {
+        'english': '0.2',
+        'metric': '5'
+      },
+      'temp': {
+        'english': '32',
+        'metric': '0'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '240',
+        'dir': 'WSW'
+      },
+      'windchill': {
+        'english': '26',
+        'metric': '-3'
+      },
+      'wspd': {
+        'english': '6',
+        'metric': '10'
+      },
+      'wx': 'Snow'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '5:00 AM',
+        'epoch': '1458612000',
+        'hour': '5',
+        'hour_padded': '05',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '5:00 AM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow',
+      'dewpoint': {
+        'english': '31',
+        'metric': '-1'
+      },
+      'fctcode': '21',
+      'feelslike': {
+        'english': '26',
+        'metric': '-4'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '95',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_snow.gif',
+      'mslp': {
+        'english': '29.59',
+        'metric': '1002'
+      },
+      'pop': '80',
+      'qpf': {
+        'english': '0.03',
+        'metric': '1'
+      },
+      'sky': '100',
+      'snow': {
+        'english': '0.3',
+        'metric': '8'
+      },
+      'temp': {
+        'english': '32',
+        'metric': '0'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '239',
+        'dir': 'WSW'
+      },
+      'windchill': {
+        'english': '26',
+        'metric': '-4'
+      },
+      'wspd': {
+        'english': '7',
+        'metric': '11'
+      },
+      'wx': 'Snow'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '6:00 AM',
+        'epoch': '1458615600',
+        'hour': '6',
+        'hour_padded': '06',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '6:00 AM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow',
+      'dewpoint': {
+        'english': '31',
+        'metric': '-1'
+      },
+      'fctcode': '21',
+      'feelslike': {
+        'english': '26',
+        'metric': '-3'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '96',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_snow.gif',
+      'mslp': {
+        'english': '29.58',
+        'metric': '1002'
+      },
+      'pop': '81',
+      'qpf': {
+        'english': '0.02',
+        'metric': '1'
+      },
+      'sky': '100',
+      'snow': {
+        'english': '0.2',
+        'metric': '5'
+      },
+      'temp': {
+        'english': '32',
+        'metric': '0'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '239',
+        'dir': 'WSW'
+      },
+      'windchill': {
+        'english': '26',
+        'metric': '-3'
+      },
+      'wspd': {
+        'english': '6',
+        'metric': '10'
+      },
+      'wx': 'Snow'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '7:00 AM',
+        'epoch': '1458619200',
+        'hour': '7',
+        'hour_padded': '07',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '7:00 AM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow',
+      'dewpoint': {
+        'english': '31',
+        'metric': '-1'
+      },
+      'fctcode': '21',
+      'feelslike': {
+        'english': '28',
+        'metric': '-2'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '93',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_snow.gif',
+      'mslp': {
+        'english': '29.57',
+        'metric': '1001'
+      },
+      'pop': '77',
+      'qpf': {
+        'english': '0.02',
+        'metric': '1'
+      },
+      'sky': '100',
+      'snow': {
+        'english': '0.2',
+        'metric': '5'
+      },
+      'temp': {
+        'english': '33',
+        'metric': '1'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '243',
+        'dir': 'WSW'
+      },
+      'windchill': {
+        'english': '28',
+        'metric': '-2'
+      },
+      'wspd': {
+        'english': '6',
+        'metric': '10'
+      },
+      'wx': 'Snow'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '8:00 AM',
+        'epoch': '1458622800',
+        'hour': '8',
+        'hour_padded': '08',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '8:00 AM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow',
+      'dewpoint': {
+        'english': '32',
+        'metric': '0'
+      },
+      'fctcode': '21',
+      'feelslike': {
+        'english': '28',
+        'metric': '-2'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '93',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/snow.gif',
+      'mslp': {
+        'english': '29.56',
+        'metric': '1001'
+      },
+      'pop': '75',
+      'qpf': {
+        'english': '0.02',
+        'metric': '1'
+      },
+      'sky': '100',
+      'snow': {
+        'english': '0.2',
+        'metric': '5'
+      },
+      'temp': {
+        'english': '34',
+        'metric': '1'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '247',
+        'dir': 'WSW'
+      },
+      'windchill': {
+        'english': '28',
+        'metric': '-2'
+      },
+      'wspd': {
+        'english': '6',
+        'metric': '10'
+      },
+      'wx': 'Snow'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '9:00 AM',
+        'epoch': '1458626400',
+        'hour': '9',
+        'hour_padded': '09',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '9:00 AM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow',
+      'dewpoint': {
+        'english': '33',
+        'metric': '1'
+      },
+      'fctcode': '21',
+      'feelslike': {
+        'english': '34',
+        'metric': '1'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '94',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/snow.gif',
+      'mslp': {
+        'english': '29.56',
+        'metric': '1001'
+      },
+      'pop': '71',
+      'qpf': {
+        'english': '0.02',
+        'metric': '1'
+      },
+      'sky': '100',
+      'snow': {
+        'english': '0.2',
+        'metric': '5'
+      },
+      'temp': {
+        'english': '34',
+        'metric': '1'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '254',
+        'dir': 'WSW'
+      },
+      'windchill': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'wspd': {
+        'english': '3',
+        'metric': '5'
+      },
+      'wx': 'Snow'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '10:00 AM',
+        'epoch': '1458630000',
+        'hour': '10',
+        'hour_padded': '10',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '10:00 AM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow Showers',
+      'dewpoint': {
+        'english': '33',
+        'metric': '1'
+      },
+      'fctcode': '19',
+      'feelslike': {
+        'english': '35',
+        'metric': '2'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '92',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/snow.gif',
+      'mslp': {
+        'english': '29.56',
+        'metric': '1001'
+      },
+      'pop': '74',
+      'qpf': {
+        'english': '0.02',
+        'metric': '1'
+      },
+      'sky': '100',
+      'snow': {
+        'english': '0.1',
+        'metric': '3'
+      },
+      'temp': {
+        'english': '35',
+        'metric': '2'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '262',
+        'dir': 'W'
+      },
+      'windchill': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'wspd': {
+        'english': '2',
+        'metric': '3'
+      },
+      'wx': 'Light Snow'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '11:00 AM',
+        'epoch': '1458633600',
+        'hour': '11',
+        'hour_padded': '11',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '11:00 AM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow',
+      'dewpoint': {
+        'english': '32',
+        'metric': '0'
+      },
+      'fctcode': '21',
+      'feelslike': {
+        'english': '32',
+        'metric': '0'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '87',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/snow.gif',
+      'mslp': {
+        'english': '29.56',
+        'metric': '1001'
+      },
+      'pop': '71',
+      'qpf': {
+        'english': '0.02',
+        'metric': '1'
+      },
+      'sky': '100',
+      'snow': {
+        'english': '0.1',
+        'metric': '3'
+      },
+      'temp': {
+        'english': '36',
+        'metric': '2'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '277',
+        'dir': 'W'
+      },
+      'windchill': {
+        'english': '32',
+        'metric': '0'
+      },
+      'wspd': {
+        'english': '4',
+        'metric': '6'
+      },
+      'wx': 'Snow'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'PM',
+        'civil': '12:00 PM',
+        'epoch': '1458637200',
+        'hour': '12',
+        'hour_padded': '12',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '12:00 PM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow',
+      'dewpoint': {
+        'english': '32',
+        'metric': '0'
+      },
+      'fctcode': '21',
+      'feelslike': {
+        'english': '36',
+        'metric': '2'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '85',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/snow.gif',
+      'mslp': {
+        'english': '29.57',
+        'metric': '1001'
+      },
+      'pop': '72',
+      'qpf': {
+        'english': '0.02',
+        'metric': '1'
+      },
+      'sky': '100',
+      'snow': {
+        'english': '0.1',
+        'metric': '3'
+      },
+      'temp': {
+        'english': '36',
+        'metric': '2'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '298',
+        'dir': 'WNW'
+      },
+      'windchill': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'wspd': {
+        'english': '3',
+        'metric': '5'
+      },
+      'wx': 'Snow'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'PM',
+        'civil': '1:00 PM',
+        'epoch': '1458640800',
+        'hour': '13',
+        'hour_padded': '13',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '1:00 PM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow',
+      'dewpoint': {
+        'english': '32',
+        'metric': '0'
+      },
+      'fctcode': '21',
+      'feelslike': {
+        'english': '33',
+        'metric': '1'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '84',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/snow.gif',
+      'mslp': {
+        'english': '29.57',
+        'metric': '1001'
+      },
+      'pop': '68',
+      'qpf': {
+        'english': '0.02',
+        'metric': '1'
+      },
+      'sky': '100',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '37',
+        'metric': '3'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '309',
+        'dir': 'NW'
+      },
+      'windchill': {
+        'english': '33',
+        'metric': '1'
+      },
+      'wspd': {
+        'english': '5',
+        'metric': '8'
+      },
+      'wx': 'Rain/Snow'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'PM',
+        'civil': '2:00 PM',
+        'epoch': '1458644400',
+        'hour': '14',
+        'hour_padded': '14',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '2:00 PM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow',
+      'dewpoint': {
+        'english': '32',
+        'metric': '0'
+      },
+      'fctcode': '21',
+      'feelslike': {
+        'english': '32',
+        'metric': '0'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '82',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/snow.gif',
+      'mslp': {
+        'english': '29.57',
+        'metric': '1001'
+      },
+      'pop': '64',
+      'qpf': {
+        'english': '0.01',
+        'metric': '0'
+      },
+      'sky': '99',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '37',
+        'metric': '3'
+      },
+      'uvi': '1',
+      'wdir': {
+        'degrees': '341',
+        'dir': 'NNW'
+      },
+      'windchill': {
+        'english': '32',
+        'metric': '0'
+      },
+      'wspd': {
+        'english': '7',
+        'metric': '11'
+      },
+      'wx': 'Rain/Snow'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'PM',
+        'civil': '3:00 PM',
+        'epoch': '1458648000',
+        'hour': '15',
+        'hour_padded': '15',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '3:00 PM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow',
+      'dewpoint': {
+        'english': '31',
+        'metric': '-1'
+      },
+      'fctcode': '21',
+      'feelslike': {
+        'english': '29',
+        'metric': '-2'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '83',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/snow.gif',
+      'mslp': {
+        'english': '29.57',
+        'metric': '1001'
+      },
+      'pop': '58',
+      'qpf': {
+        'english': '0.01',
+        'metric': '0'
+      },
+      'sky': '100',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '36',
+        'metric': '2'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '14',
+        'dir': 'NNE'
+      },
+      'windchill': {
+        'english': '29',
+        'metric': '-2'
+      },
+      'wspd': {
+        'english': '8',
+        'metric': '13'
+      },
+      'wx': 'Rain/Snow Showers'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'PM',
+        'civil': '4:00 PM',
+        'epoch': '1458651600',
+        'hour': '16',
+        'hour_padded': '16',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '4:00 PM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow Showers',
+      'dewpoint': {
+        'english': '32',
+        'metric': '0'
+      },
+      'fctcode': '19',
+      'feelslike': {
+        'english': '29',
+        'metric': '-2'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '86',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/snow.gif',
+      'mslp': {
+        'english': '29.58',
+        'metric': '1002'
+      },
+      'pop': '59',
+      'qpf': {
+        'english': '0.01',
+        'metric': '0'
+      },
+      'sky': '64',
+      'snow': {
+        'english': '0.1',
+        'metric': '3'
+      },
+      'temp': {
+        'english': '36',
+        'metric': '2'
+      },
+      'uvi': '1',
+      'wdir': {
+        'degrees': '23',
+        'dir': 'NNE'
+      },
+      'windchill': {
+        'english': '29',
+        'metric': '-2'
+      },
+      'wspd': {
+        'english': '9',
+        'metric': '14'
+      },
+      'wx': 'Snow Showers'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'PM',
+        'civil': '5:00 PM',
+        'epoch': '1458655200',
+        'hour': '17',
+        'hour_padded': '17',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '5:00 PM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow Showers',
+      'dewpoint': {
+        'english': '33',
+        'metric': '1'
+      },
+      'fctcode': '19',
+      'feelslike': {
+        'english': '28',
+        'metric': '-2'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '89',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/snow.gif',
+      'mslp': {
+        'english': '29.59',
+        'metric': '1002'
+      },
+      'pop': '58',
+      'qpf': {
+        'english': '0.01',
+        'metric': '0'
+      },
+      'sky': '64',
+      'snow': {
+        'english': '0.1',
+        'metric': '3'
+      },
+      'temp': {
+        'english': '36',
+        'metric': '2'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '40',
+        'dir': 'NE'
+      },
+      'windchill': {
+        'english': '28',
+        'metric': '-2'
+      },
+      'wspd': {
+        'english': '10',
+        'metric': '16'
+      },
+      'wx': 'Snow Showers'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'PM',
+        'civil': '6:00 PM',
+        'epoch': '1458658800',
+        'hour': '18',
+        'hour_padded': '18',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '6:00 PM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow Showers',
+      'dewpoint': {
+        'english': '33',
+        'metric': '1'
+      },
+      'fctcode': '19',
+      'feelslike': {
+        'english': '28',
+        'metric': '-2'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '90',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/snow.gif',
+      'mslp': {
+        'english': '29.6',
+        'metric': '1002'
+      },
+      'pop': '62',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '100',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '36',
+        'metric': '2'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '39',
+        'dir': 'NE'
+      },
+      'windchill': {
+        'english': '28',
+        'metric': '-2'
+      },
+      'wspd': {
+        'english': '10',
+        'metric': '16'
+      },
+      'wx': 'Light Snow'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'PM',
+        'civil': '7:00 PM',
+        'epoch': '1458662400',
+        'hour': '19',
+        'hour_padded': '19',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '7:00 PM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow Showers',
+      'dewpoint': {
+        'english': '32',
+        'metric': '0'
+      },
+      'fctcode': '19',
+      'feelslike': {
+        'english': '27',
+        'metric': '-3'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '94',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/snow.gif',
+      'mslp': {
+        'english': '29.62',
+        'metric': '1003'
+      },
+      'pop': '41',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '99',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '34',
+        'metric': '1'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '40',
+        'dir': 'NE'
+      },
+      'windchill': {
+        'english': '27',
+        'metric': '-3'
+      },
+      'wspd': {
+        'english': '8',
+        'metric': '13'
+      },
+      'wx': 'Snow Showers'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'PM',
+        'civil': '8:00 PM',
+        'epoch': '1458666000',
+        'hour': '20',
+        'hour_padded': '20',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '8:00 PM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow Showers',
+      'dewpoint': {
+        'english': '30',
+        'metric': '-1'
+      },
+      'fctcode': '19',
+      'feelslike': {
+        'english': '25',
+        'metric': '-4'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '90',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_snow.gif',
+      'mslp': {
+        'english': '29.63',
+        'metric': '1003'
+      },
+      'pop': '33',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '92',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '32',
+        'metric': '0'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '45',
+        'dir': 'NE'
+      },
+      'windchill': {
+        'english': '25',
+        'metric': '-4'
+      },
+      'wspd': {
+        'english': '8',
+        'metric': '13'
+      },
+      'wx': 'Few Snow Showers'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'PM',
+        'civil': '9:00 PM',
+        'epoch': '1458669600',
+        'hour': '21',
+        'hour_padded': '21',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '9:00 PM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Snow Showers',
+      'dewpoint': {
+        'english': '29',
+        'metric': '-2'
+      },
+      'fctcode': '19',
+      'feelslike': {
+        'english': '23',
+        'metric': '-5'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '92',
+      'icon': 'snow',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_snow.gif',
+      'mslp': {
+        'english': '29.64',
+        'metric': '1004'
+      },
+      'pop': '31',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '92',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '31',
+        'metric': '-1'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '44',
+        'dir': 'NE'
+      },
+      'windchill': {
+        'english': '23',
+        'metric': '-5'
+      },
+      'wspd': {
+        'english': '7',
+        'metric': '11'
+      },
+      'wx': 'Few Snow Showers'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'PM',
+        'civil': '10:00 PM',
+        'epoch': '1458673200',
+        'hour': '22',
+        'hour_padded': '22',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '10:00 PM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Overcast',
+      'dewpoint': {
+        'english': '27',
+        'metric': '-3'
+      },
+      'fctcode': '4',
+      'feelslike': {
+        'english': '23',
+        'metric': '-5'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '91',
+      'icon': 'cloudy',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_cloudy.gif',
+      'mslp': {
+        'english': '29.66',
+        'metric': '1004'
+      },
+      'pop': '6',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '91',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '30',
+        'metric': '-1'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '40',
+        'dir': 'NE'
+      },
+      'windchill': {
+        'english': '23',
+        'metric': '-5'
+      },
+      'wspd': {
+        'english': '7',
+        'metric': '11'
+      },
+      'wx': 'Cloudy'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'PM',
+        'civil': '11:00 PM',
+        'epoch': '1458676800',
+        'hour': '23',
+        'hour_padded': '23',
+        'isdst': '0',
+        'mday': '22',
+        'mday_padded': '22',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '11:00 PM MSK on March 22, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Tuesday',
+        'weekday_name_abbrev': 'Tue',
+        'weekday_name_night': 'Tuesday Night',
+        'weekday_name_night_unlang': 'Tuesday Night',
+        'weekday_name_unlang': 'Tuesday',
+        'yday': '81',
+        'year': '2016'
+      },
+      'condition': 'Overcast',
+      'dewpoint': {
+        'english': '26',
+        'metric': '-3'
+      },
+      'fctcode': '4',
+      'feelslike': {
+        'english': '20',
+        'metric': '-6'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '92',
+      'icon': 'cloudy',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_cloudy.gif',
+      'mslp': {
+        'english': '29.67',
+        'metric': '1005'
+      },
+      'pop': '7',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '87',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '28',
+        'metric': '-2'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '32',
+        'dir': 'NNE'
+      },
+      'windchill': {
+        'english': '20',
+        'metric': '-6'
+      },
+      'wspd': {
+        'english': '8',
+        'metric': '13'
+      },
+      'wx': 'Cloudy'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '12:00 AM',
+        'epoch': '1458680400',
+        'hour': '0',
+        'hour_padded': '00',
+        'isdst': '0',
+        'mday': '23',
+        'mday_padded': '23',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '12:00 AM MSK on March 23, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Wednesday',
+        'weekday_name_abbrev': 'Wed',
+        'weekday_name_night': 'Wednesday Night',
+        'weekday_name_night_unlang': 'Wednesday Night',
+        'weekday_name_unlang': 'Wednesday',
+        'yday': '82',
+        'year': '2016'
+      },
+      'condition': 'Overcast',
+      'dewpoint': {
+        'english': '26',
+        'metric': '-3'
+      },
+      'fctcode': '4',
+      'feelslike': {
+        'english': '22',
+        'metric': '-6'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '92',
+      'icon': 'cloudy',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_cloudy.gif',
+      'mslp': {
+        'english': '29.68',
+        'metric': '1005'
+      },
+      'pop': '6',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '85',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '28',
+        'metric': '-2'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '25',
+        'dir': 'NNE'
+      },
+      'windchill': {
+        'english': '22',
+        'metric': '-6'
+      },
+      'wspd': {
+        'english': '6',
+        'metric': '10'
+      },
+      'wx': 'Cloudy'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '1:00 AM',
+        'epoch': '1458684000',
+        'hour': '1',
+        'hour_padded': '01',
+        'isdst': '0',
+        'mday': '23',
+        'mday_padded': '23',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '1:00 AM MSK on March 23, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Wednesday',
+        'weekday_name_abbrev': 'Wed',
+        'weekday_name_night': 'Wednesday Night',
+        'weekday_name_night_unlang': 'Wednesday Night',
+        'weekday_name_unlang': 'Wednesday',
+        'yday': '82',
+        'year': '2016'
+      },
+      'condition': 'Overcast',
+      'dewpoint': {
+        'english': '26',
+        'metric': '-3'
+      },
+      'fctcode': '4',
+      'feelslike': {
+        'english': '22',
+        'metric': '-6'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '91',
+      'icon': 'cloudy',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_cloudy.gif',
+      'mslp': {
+        'english': '29.7',
+        'metric': '1006'
+      },
+      'pop': '5',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '82',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '28',
+        'metric': '-2'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '26',
+        'dir': 'NNE'
+      },
+      'windchill': {
+        'english': '22',
+        'metric': '-6'
+      },
+      'wspd': {
+        'english': '6',
+        'metric': '10'
+      },
+      'wx': 'Cloudy'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '2:00 AM',
+        'epoch': '1458687600',
+        'hour': '2',
+        'hour_padded': '02',
+        'isdst': '0',
+        'mday': '23',
+        'mday_padded': '23',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '2:00 AM MSK on March 23, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Wednesday',
+        'weekday_name_abbrev': 'Wed',
+        'weekday_name_night': 'Wednesday Night',
+        'weekday_name_night_unlang': 'Wednesday Night',
+        'weekday_name_unlang': 'Wednesday',
+        'yday': '82',
+        'year': '2016'
+      },
+      'condition': 'Overcast',
+      'dewpoint': {
+        'english': '25',
+        'metric': '-4'
+      },
+      'fctcode': '4',
+      'feelslike': {
+        'english': '19',
+        'metric': '-7'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '91',
+      'icon': 'cloudy',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_cloudy.gif',
+      'mslp': {
+        'english': '29.7',
+        'metric': '1006'
+      },
+      'pop': '5',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '82',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '27',
+        'metric': '-3'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '31',
+        'dir': 'NNE'
+      },
+      'windchill': {
+        'english': '19',
+        'metric': '-7'
+      },
+      'wspd': {
+        'english': '7',
+        'metric': '11'
+      },
+      'wx': 'Cloudy'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '3:00 AM',
+        'epoch': '1458691200',
+        'hour': '3',
+        'hour_padded': '03',
+        'isdst': '0',
+        'mday': '23',
+        'mday_padded': '23',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '3:00 AM MSK on March 23, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Wednesday',
+        'weekday_name_abbrev': 'Wed',
+        'weekday_name_night': 'Wednesday Night',
+        'weekday_name_night_unlang': 'Wednesday Night',
+        'weekday_name_unlang': 'Wednesday',
+        'yday': '82',
+        'year': '2016'
+      },
+      'condition': 'Overcast',
+      'dewpoint': {
+        'english': '26',
+        'metric': '-3'
+      },
+      'fctcode': '4',
+      'feelslike': {
+        'english': '22',
+        'metric': '-6'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '92',
+      'icon': 'cloudy',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_cloudy.gif',
+      'mslp': {
+        'english': '29.71',
+        'metric': '1006'
+      },
+      'pop': '5',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '84',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '28',
+        'metric': '-2'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '37',
+        'dir': 'NE'
+      },
+      'windchill': {
+        'english': '22',
+        'metric': '-6'
+      },
+      'wspd': {
+        'english': '6',
+        'metric': '10'
+      },
+      'wx': 'Cloudy'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '4:00 AM',
+        'epoch': '1458694800',
+        'hour': '4',
+        'hour_padded': '04',
+        'isdst': '0',
+        'mday': '23',
+        'mday_padded': '23',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '4:00 AM MSK on March 23, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Wednesday',
+        'weekday_name_abbrev': 'Wed',
+        'weekday_name_night': 'Wednesday Night',
+        'weekday_name_night_unlang': 'Wednesday Night',
+        'weekday_name_unlang': 'Wednesday',
+        'yday': '82',
+        'year': '2016'
+      },
+      'condition': 'Overcast',
+      'dewpoint': {
+        'english': '26',
+        'metric': '-3'
+      },
+      'fctcode': '4',
+      'feelslike': {
+        'english': '22',
+        'metric': '-6'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '92',
+      'icon': 'cloudy',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_cloudy.gif',
+      'mslp': {
+        'english': '29.72',
+        'metric': '1006'
+      },
+      'pop': '5',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '81',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '28',
+        'metric': '-2'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '39',
+        'dir': 'NE'
+      },
+      'windchill': {
+        'english': '22',
+        'metric': '-6'
+      },
+      'wspd': {
+        'english': '6',
+        'metric': '10'
+      },
+      'wx': 'Cloudy'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '5:00 AM',
+        'epoch': '1458698400',
+        'hour': '5',
+        'hour_padded': '05',
+        'isdst': '0',
+        'mday': '23',
+        'mday_padded': '23',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '5:00 AM MSK on March 23, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Wednesday',
+        'weekday_name_abbrev': 'Wed',
+        'weekday_name_night': 'Wednesday Night',
+        'weekday_name_night_unlang': 'Wednesday Night',
+        'weekday_name_unlang': 'Wednesday',
+        'yday': '82',
+        'year': '2016'
+      },
+      'condition': 'Overcast',
+      'dewpoint': {
+        'english': '25',
+        'metric': '-4'
+      },
+      'fctcode': '4',
+      'feelslike': {
+        'english': '19',
+        'metric': '-7'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '93',
+      'icon': 'cloudy',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_cloudy.gif',
+      'mslp': {
+        'english': '29.72',
+        'metric': '1006'
+      },
+      'pop': '5',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '90',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '27',
+        'metric': '-3'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '36',
+        'dir': 'NE'
+      },
+      'windchill': {
+        'english': '19',
+        'metric': '-7'
+      },
+      'wspd': {
+        'english': '7',
+        'metric': '11'
+      },
+      'wx': 'Cloudy'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '6:00 AM',
+        'epoch': '1458702000',
+        'hour': '6',
+        'hour_padded': '06',
+        'isdst': '0',
+        'mday': '23',
+        'mday_padded': '23',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '6:00 AM MSK on March 23, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Wednesday',
+        'weekday_name_abbrev': 'Wed',
+        'weekday_name_night': 'Wednesday Night',
+        'weekday_name_night_unlang': 'Wednesday Night',
+        'weekday_name_unlang': 'Wednesday',
+        'yday': '82',
+        'year': '2016'
+      },
+      'condition': 'Overcast',
+      'dewpoint': {
+        'english': '26',
+        'metric': '-3'
+      },
+      'fctcode': '4',
+      'feelslike': {
+        'english': '20',
+        'metric': '-7'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '94',
+      'icon': 'cloudy',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_cloudy.gif',
+      'mslp': {
+        'english': '29.72',
+        'metric': '1006'
+      },
+      'pop': '5',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '87',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '27',
+        'metric': '-3'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '29',
+        'dir': 'NNE'
+      },
+      'windchill': {
+        'english': '20',
+        'metric': '-7'
+      },
+      'wspd': {
+        'english': '6',
+        'metric': '10'
+      },
+      'wx': 'Cloudy'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '7:00 AM',
+        'epoch': '1458705600',
+        'hour': '7',
+        'hour_padded': '07',
+        'isdst': '0',
+        'mday': '23',
+        'mday_padded': '23',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '7:00 AM MSK on March 23, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Wednesday',
+        'weekday_name_abbrev': 'Wed',
+        'weekday_name_night': 'Wednesday Night',
+        'weekday_name_night_unlang': 'Wednesday Night',
+        'weekday_name_unlang': 'Wednesday',
+        'yday': '82',
+        'year': '2016'
+      },
+      'condition': 'Overcast',
+      'dewpoint': {
+        'english': '24',
+        'metric': '-4'
+      },
+      'fctcode': '4',
+      'feelslike': {
+        'english': '20',
+        'metric': '-7'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '88',
+      'icon': 'cloudy',
+      'icon_url': 'http://icons.wxug.com/i/c/k/nt_cloudy.gif',
+      'mslp': {
+        'english': '29.74',
+        'metric': '1007'
+      },
+      'pop': '5',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '90',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '27',
+        'metric': '-3'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '28',
+        'dir': 'NNE'
+      },
+      'windchill': {
+        'english': '20',
+        'metric': '-7'
+      },
+      'wspd': {
+        'english': '6',
+        'metric': '10'
+      },
+      'wx': 'Cloudy'
+    },
+    {
+      'FCTTIME': {
+        'UTCDATE': '',
+        'age': '',
+        'ampm': 'AM',
+        'civil': '8:00 AM',
+        'epoch': '1458709200',
+        'hour': '8',
+        'hour_padded': '08',
+        'isdst': '0',
+        'mday': '23',
+        'mday_padded': '23',
+        'min': '00',
+        'min_unpadded': '0',
+        'mon': '3',
+        'mon_abbrev': 'Mar',
+        'mon_padded': '03',
+        'month_name': 'March',
+        'month_name_abbrev': 'Mar',
+        'pretty': '8:00 AM MSK on March 23, 2016',
+        'sec': '0',
+        'tz': '',
+        'weekday_name': 'Wednesday',
+        'weekday_name_abbrev': 'Wed',
+        'weekday_name_night': 'Wednesday Night',
+        'weekday_name_night_unlang': 'Wednesday Night',
+        'weekday_name_unlang': 'Wednesday',
+        'yday': '82',
+        'year': '2016'
+      },
+      'condition': 'Overcast',
+      'dewpoint': {
+        'english': '24',
+        'metric': '-4'
+      },
+      'fctcode': '4',
+      'feelslike': {
+        'english': '19',
+        'metric': '-7'
+      },
+      'heatindex': {
+        'english': '-9999',
+        'metric': '-9999'
+      },
+      'humidity': '88',
+      'icon': 'cloudy',
+      'icon_url': 'http://icons.wxug.com/i/c/k/cloudy.gif',
+      'mslp': {
+        'english': '29.75',
+        'metric': '1007'
+      },
+      'pop': '5',
+      'qpf': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'sky': '89',
+      'snow': {
+        'english': '0.0',
+        'metric': '0'
+      },
+      'temp': {
+        'english': '27',
+        'metric': '-3'
+      },
+      'uvi': '0',
+      'wdir': {
+        'degrees': '30',
+        'dir': 'NNE'
+      },
+      'windchill': {
+        'english': '19',
+        'metric': '-7'
+      },
+      'wspd': {
+        'english': '7',
+        'metric': '11'
+      },
+      'wx': 'Cloudy'
+    }
+  ],
+  'response': {
+    'error': {
+      'type': 'unknownfeature'
+    },
+    'features': {
+      'hourly': 1
+    },
+    'termsofService': 'http://www.wunderground.com/weather/api/d/terms.html',
+    'version': '0.1'
+  }
+}

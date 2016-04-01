@@ -1,0 +1,18 @@
+{
+  'chat': {
+    'first_name': 'Denis',
+    'id': 111222333,
+    'last_name': 'Balyko',
+    'type': 'private',
+    'username': 'denisbalyko'
+  },
+  'date': 1111111111,
+  'from': {
+    'first_name': 'Denis',
+    'id': 111222333,
+    'last_name': 'Balyko',
+    'username': 'denisbalyko'
+  },
+  'message_id': 123,
+  'text': '/city Minsk'
+}
