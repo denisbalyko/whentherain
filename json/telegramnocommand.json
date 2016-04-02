@@ -1,18 +1,18 @@
 {
   'chat': {
-    'first_name': 'Denis',
+    'first_name': 'Denis2',
     'id': 111222333,
-    'last_name': 'Balyko',
+    'last_name': 'BalykoTest',
     'type': 'private',
-    'username': 'denisbalyko'
+    'username': ''
   },
-  'date': 1111111111,
+  'date': 1112222111,
   'from': {
-    'first_name': 'Denis',
+    'first_name': 'Denis2',
     'id': 111222333,
-    'last_name': 'Balyko',
-    'username': 'denisbalyko'
+    'last_name': 'BalykoTest',
+    'username': ''
   },
   'message_id': 123,
-  'text': '/city Minsk'
+  'text': 'test text'
 }
