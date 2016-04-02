@@ -1,2 +1,8 @@
 pytest
 telepot
+SQLAlchemy
+celery
+kombu
+pytz
+redis
+requests
